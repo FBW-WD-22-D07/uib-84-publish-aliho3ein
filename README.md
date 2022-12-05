@@ -1,7 +1,7 @@
 # Publishing Workflow
 [![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
 
-[link]()
+[link](https://fbw-wd-22-d07.github.io/uib-84-publish-aliho3ein/)
 
 
 Let's make our work public to share it with the world. Use this power wisely and **within legal laws & regulations** (no hate, no bullying, misinformation etc.).
